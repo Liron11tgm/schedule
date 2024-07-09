@@ -1,0 +1,24 @@
+{
+  "reservation": [
+    {
+      "userId": 2304,
+      "roomId": 3,
+      "date": "11.02.2024"
+    },
+    {
+      "userId": 9837,
+      "roomId": 1,
+      "date": "11.02.2024"
+    },
+    {
+      "userId": 8656,
+      "roomId": 3,
+      "date": "12.03.2024"
+    },
+    {
+      "userId": 2304,
+      "roomId": 1,
+      "date": "25.12.20023"
+    }
+  ]
+}

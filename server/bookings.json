@@ -1,0 +1,67 @@
+[
+  {
+    "userId": 9837,
+    "roomId": 1,
+    "date": "11.07.2024"
+  },
+  {
+    "userId": 8656,
+    "roomId": 3,
+    "date": "12.07.2024"
+  },
+  {
+    "userId": 9837,
+    "roomId": 3,
+    "date": "08.07.2024"
+  },
+  {
+    "userId": 9837,
+    "roomId": 2,
+    "date": "02.07.2024"
+  },
+  {
+    "userId": 2304,
+    "roomId": 4,
+    "date": "19.07.2024"
+  },
+  {
+    "userId": 5972,
+    "roomId": 5,
+    "date": "11.07.2024"
+  },
+  {
+    "userId": 9837,
+    "roomId": 3,
+    "date": "09.07.2024"
+  },
+  {
+    "userId": 9837,
+    "roomId": 5,
+    "date": "09.07.2024"
+  },
+  {
+    "userId": 2304,
+    "roomId": 5,
+    "date": "12.07.2024"
+  },
+  {
+    "userId": 8656,
+    "roomId": 1,
+    "date": "09.07.2024"
+  },
+  {
+    "userId": 9837,
+    "roomId": 3,
+    "date": "16.07.2024"
+  },
+  {
+    "userId": 1488,
+    "roomId": 4,
+    "date": "08.07.2024"
+  },
+  {
+    "userId": 2685,
+    "roomId": 5,
+    "date": "24.07.2024"
+  }
+]
